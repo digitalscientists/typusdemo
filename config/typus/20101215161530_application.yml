@@ -4,8 +4,8 @@
 
 Location:
   fields:
-    default: name, address, image_file_name
-    form: name, address, description, image_file_name
+    default: name, address, image
+    form: name, address, description, image
   order_by: 
   relationships: 
   filters: 

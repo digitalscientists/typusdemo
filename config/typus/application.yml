@@ -14,8 +14,8 @@ Article:
   
 Location:
   fields:
-    default: name, address, image, image_file_name
-    form: name, address, description, image, image_file_name
+    default: name, address, image
+    form: name, address, description, image
   order_by: 
   relationships: 
   filters: 
