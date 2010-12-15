@@ -1,0 +1,11 @@
+# Typus Roles Configuration File
+#
+# Use the README file as a reference to customize settings.
+
+admin:
+  Article: create, read, update, delete
+  Location: create, read, update, delete
+
+editor:
+  Article: create, read, update
+  Location: create, read, update

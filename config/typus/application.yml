@@ -1,0 +1,24 @@
+# Typus Models Configuration File
+#
+# Use the README file as a reference to customize settings.
+
+Article:
+  fields:
+    default: title, author
+    form: title, body, author
+  order_by: 
+  relationships: 
+  filters: 
+  search: title
+  application: typus_test
+  
+Location:
+  fields:
+    default: image, name, address
+    form: name, address, description, image
+  order_by: 
+  relationships: 
+  filters: 
+  search: title
+  application: typus_test
+
