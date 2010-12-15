@@ -14,11 +14,11 @@ Article:
   
 Location:
   fields:
-    default: image, name, address
-    form: name, address, description, image
+    default: name, address, image, image_file_name
+    form: name, address, description, image, image_file_name
   order_by: 
   relationships: 
   filters: 
-  search: title
+  search: name
   application: typus_test
 
