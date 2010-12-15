@@ -1,5 +1,6 @@
 typescript
 config/*.sqlite3
+db/*.sqlite3
 *.swp
 *.swo
 log/
