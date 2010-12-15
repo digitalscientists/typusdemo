@@ -3,3 +3,5 @@ config/*.sqlite3
 *.swp
 *.swo
 log/
+tmp/*
+tmp/**/*
